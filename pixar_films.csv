@@ -1,0 +1,28 @@
+number,film,release_date,run_time,film_rating,rotten_tomatoes,metacritic
+1,Toy Story,11/22/1995,81,G,100,95
+2,A Bug's Life,11/25/1998,95,G,92,77
+3,Toy Story 2,11/24/1999,92,G,100,88
+4,"Monsters, Inc.",11/2/2001,92,G,96,79
+5,Finding Nemo,5/30/2003,100,G,99,90
+6,The Incredibles,11/5/2004,115,PG,97,90
+7,Cars,6/9/2006,117,G,74,73
+8,Ratatouille,6/29/2007,111,G,96,96
+9,WALL-E,6/27/2008,98,G,95,95
+10,Up,5/29/2009,96,PG,98,88
+11,Toy Story 3,6/18/2010,103,G,98,92
+12,Cars 2,6/24/2011,106,G,40,57
+13,Brave,6/22/2012,93,PG,78,69
+14,Monsters University,6/21/2013,104,G,80,65
+15,Inside Out,6/19/2015,95,PG,98,94
+16,The Good Dinosaur,11/25/2015,93,PG,76,66
+17,Finding Dory,6/17/2016,97,PG,94,77
+18,Cars 3,6/16/2017,102,G,69,59
+19,Coco,11/22/2017,105,PG,97,81
+20,Incredibles 2,6/15/2018,118,PG,93,80
+21,Toy Story 4,6/21/2019,100,G,97,84
+22,Onward,3/6/2020,102,PG,88,61
+23,Soul,12/25/2020,100,PG,96,83
+24,Luca,6/18/2021,151,,,
+25,Turning Red,3/11/2022,,,,
+26,Lightyear,6/17/2022,,,,
+27,,6/16/2023,155,Not Rated,,
