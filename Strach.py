@@ -1,5 +1,7 @@
-nums = [(not nums % 2) for nums in range(10)]
-
-lengths = []
-
-print(nums)
+counts = {}
+for word in ["cat", "dog", "cat", "bird", "cat"]:
+    if word in counts:
+        counts[word] += 1
+    else:
+        counts[word] = 1
+print(counts["cat"], len(counts))
